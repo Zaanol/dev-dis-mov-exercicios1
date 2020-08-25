@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7e4ad426-2d9b-4fab-b12c-d652489bdf5a" name="Default Changelist" comment="">
+    <list default="true" id="7e4ad426-2d9b-4fab-b12c-d652489bdf5a" name="Default Changelist" comment="Resolução exercícios 24/08/2020">
       <change afterPath="$PROJECT_DIR$/out/production/Exercicios/META-INF/Exercicios.kotlin_module" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/Exercicios/calculadora/Calculadora.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/Exercicios/calculapi/CalculaPI.class" afterDir="false" />
@@ -147,7 +147,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1598308489655</updated>
-      <workItem from="1598308492581" duration="6247000" />
+      <workItem from="1598308492581" duration="8045000" />
     </task>
     <task id="LOCAL-00001" summary="Resolução exercícios 24/08/2020">
       <created>1598314395663</created>
@@ -163,7 +163,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598314426486</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Resolução exercícios 24/08/2020">
+      <created>1598314923491</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1598314923491</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
