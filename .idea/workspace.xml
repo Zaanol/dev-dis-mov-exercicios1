@@ -2,22 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7e4ad426-2d9b-4fab-b12c-d652489bdf5a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/Exercicios/META-INF/Exercicios.kotlin_module" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/Exercicios/calculadora/Calculadora.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/Exercicios/calculapi/CalculaPI.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/Exercicios/fatura/Fatura.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/Exercicios/fatura/FaturaTeste.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/Exercicios/populacaomundial/PopulacaoMundial.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/calculadora/Calculadora.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/calculapi/CalculaPI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fatura/Fatura.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fatura/FaturaTeste.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/populacaomundial/PopulacaoMundial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/populacaomundial/PopulacaoMundial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/populacaomundial/PopulacaoMundial.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +50,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FaturaTeste">
+  <component name="RunManager" selected="Application.PopulacaoMundial">
     <configuration name="CalculaPI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="calculapi.CalculaPI" />
       <module name="Exercicios" />
@@ -137,10 +129,10 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PopulacaoMundial" />
         <item itemvalue="Application.FaturaTeste" />
         <item itemvalue="Application.CalculaPI" />
         <item itemvalue="Application.Calculadora" />
-        <item itemvalue="Application.PopulacaoMundial" />
         <item itemvalue="Application.SomaDoisNumeros" />
       </list>
     </recent_temporary>
@@ -155,8 +147,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1598308489655</updated>
-      <workItem from="1598308492581" duration="5853000" />
+      <workItem from="1598308492581" duration="6247000" />
     </task>
+    <task id="LOCAL-00001" summary="Resolução exercícios 24/08/2020">
+      <created>1598314395663</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598314395663</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Resolução exercícios 24/08/2020">
+      <created>1598314426486</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1598314426486</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -172,5 +179,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Resolução exercícios 24/08/2020" />
+    <option name="LAST_COMMIT_MESSAGE" value="Resolução exercícios 24/08/2020" />
   </component>
 </project>

@@ -11,7 +11,7 @@ public class PopulacaoMundial {
     public static void main(String[] args) {
         if(args.length == 1){
             try{
-                System.out.println(52735305L * Long.parseLong(args[0]) + 7807202375L);
+                System.out.println(52735305L * Long.parseLong(args[0]) + 7807202375L + " pessoas");
             }catch (Exception e){
                 System.err.println("ERRO - Falha na conversão de valores e cálculos");
             }
