@@ -6,6 +6,9 @@ public class Fatura {
     private int qtdComprada;
     private double preco;
 
+    public Fatura() {
+    }
+
     public Fatura(String codFatura, String descFatura, int qtdComprada, double preco) {
         this.codFatura = codFatura;
         this.descFatura = descFatura;
